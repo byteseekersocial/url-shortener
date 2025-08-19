@@ -34,4 +34,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  - repo.md
+  - /_urls/repo.md
