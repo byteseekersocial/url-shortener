@@ -7,7 +7,8 @@ version: v0.2
 
 baseurl: ""
 permalink: /:slug/
-logo: /assets/logo.png
+logo: /assets/newLogo.png
+favicon: /assets/newFavicon.ico
 
 theme: jekyll-theme-minimal
 
