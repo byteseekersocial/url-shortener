@@ -1,14 +1,14 @@
 name: URL Shortener
 
 title: URL Shortener
-description: Create short URLs that can be easily shared, tweeted, or emailed to friends.
+description: Create short URLs that can be easily shared!
 
 version: v0.2
 
 baseurl: ""
 permalink: /:slug/
 logo: /assets/newLogo.png
-favicon: /assets/newFavicon.ico
+favicon: /assets/logo.png
 
 theme: jekyll-theme-minimal
 
